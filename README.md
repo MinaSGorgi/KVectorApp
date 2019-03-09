@@ -1,2 +1,2 @@
 # KVectorApp
-App for KVector Foundation
+Native Android app for KVector Foundation
